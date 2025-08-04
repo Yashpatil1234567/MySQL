@@ -1,0 +1,14 @@
+CREATE TABLE employee (
+    employee_id INT PRIMARY KEY,
+    name VARCHAR(100),
+    salary INT
+);
+
+INSERT INTO employee (employee_id, name, salary)
+VALUES (1, 'Yash', 50000);
+
+INSERT INTO employee (employee_id, name, salary)
+VALUES 
+(2, 'Aman', 45000),
+(3, 'Meena', 60000),
+(4, 'Raj', 48000);
