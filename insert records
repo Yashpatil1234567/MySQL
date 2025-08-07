@@ -1,0 +1,5 @@
+INSERT INTO Students (student_id, name, age, gender, course, marks) VALUES
+(1, 'Yash Patil', 19, 'Male', 'AIML', 85.5),
+(2, 'sarthak patil', 20, 'male', 'CSE', 90.2),
+(3, 'satyajeet', 21, 'Male', 'IT', 72.4),
+(4, 'shivtej pharne', 19, 'male', 'AIML', 95.0);
